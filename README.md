@@ -110,7 +110,5 @@ header {
   position: relative;
   overflow: hidden;
   background: linear-gradient(#090909, #111);
-}
 
-.pigeon {
  
