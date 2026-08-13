@@ -109,6 +109,6 @@ header {
   height: 180px;
   position: relative;
   overflow: hidden;
-  background: linear-gradient(#090909, #111);
+
 
  
